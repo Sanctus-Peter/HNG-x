@@ -4,4 +4,3 @@ uvicorn
 gunicorn
 pydantic
 psycopg2-binary
-alembic
