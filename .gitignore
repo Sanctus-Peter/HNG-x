@@ -14,7 +14,7 @@ pyvenv.cfg
 *.log
 
 # Package files
-.env
+HNG_X_2_/fastapi_app/.env
 
 
 # JetBrains IDE

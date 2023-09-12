@@ -8,11 +8,11 @@ This repository contains codes written for and during the HNG-X internship backe
 
 ## Contents
 
-| Projects    | Short Description                                                    |
-|-------------|----------------------------------------------------------------------|
-| [HNG-X-1](HNG-X-1) | Creating a basic backend enpoint and hosting it.                     |
-| [HNG-X-2](HNG-X-2) | Implementing a basic CRUD operation on a person entity               |
-| Updates     | please checkback, as i will continue to update this repo as required |
+| Projects            | Short Description                                                    |
+|---------------------|----------------------------------------------------------------------|
+| [HNG-X-1](HNG-X-1)  | Creating a basic backend enpoint and hosting it.                     |
+| [HNG-X-2](HNG_X_2_) | Implementing a basic CRUD operation on a person entity               |
+| Updates             | please checkback, as i will continue to update this repo as required |
 
 ## WARNINGS!!!
 

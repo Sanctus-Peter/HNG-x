@@ -41,5 +41,5 @@ This is a simple REST API for performing CRUD (Create, Read, Update, Delete) ope
 
 
 ## Framework Used
-- [FastAPI](fastapi)
+- [FastAPI](fastapi_app)
 - [django](django)
